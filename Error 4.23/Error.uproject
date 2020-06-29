@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2247490A-4501-0740-611B-02BCD912A518}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
+		}
+	]
+}
