@@ -1799,3 +1799,55 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.06.29-22.50.13:940][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
 [2020.06.29-22.50.14:112][917]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error 4.23/Saved/RichardTextLevel6ECC0E9940C1049BF98E5EB505E5135C.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error 4.23/Content/Levels/RichardTextLevel.umap'
 [2020.06.29-22.50.45:482][124]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A0359683-4A41-E951-6C88-9D97CBAF3C77}
+[2020.06.29-22.51.32:976][737]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Character/Glitch_Idle.Glitch_Idle
+[2020.06.29-22.51.32:985][737]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.29-22.51.33:017][737]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.29-22.51.33:291][737]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.06.29-22.51.41:832][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.29-22.54.28:329][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.29-22.54.28:394][429]LogSlate: Window 'Glitch_Idle' being destroyed
+[2020.06.29-22.54.28:400][429]LogSlate: Window 'Glitch_Idle' being destroyed
+[2020.06.29-22.54.28:401][429]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-22.54.28:429][429]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-22.54.28:522][429]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-22.56.16:668][352]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Character/Glitch_Idle.Glitch_Idle
+[2020.06.29-22.56.16:676][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.29-22.56.16:707][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.29-22.56.16:947][352]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.06.29-22.57.07:364][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.29-22.57.07:428][603]LogSlate: Window 'Glitch_Idle' being destroyed
+[2020.06.29-22.57.07:434][603]LogSlate: Window 'Glitch_Idle' being destroyed
+[2020.06.29-22.57.07:434][603]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-22.57.07:460][603]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-22.57.07:549][603]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-23.00.16:892][ 30]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\GameJam_ERROR\Glitch_Walk.fbx)
+[2020.06.29-23.00.16:908][ 30]LogFbx: Loading FBX Scene from E:\GameJam_ERROR\Glitch_Walk.fbx
+[2020.06.29-23.00.16:924][ 30]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.29-23.00.22:270][ 30]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.29-23.00.22:302][ 30]LogFbx: SortedLinks :(0) Skeleton
+[2020.06.29-23.00.22:302][ 30]LogFbx: SortedLinks :(1) Root_jnt
+[2020.06.29-23.00.22:302][ 30]LogFbx: SortedLinks :(2) Body_jnt
+[2020.06.29-23.00.22:302][ 30]LogFbx: SortedLinks :(3) Eye_jnt
+[2020.06.29-23.00.22:302][ 30]LogFbx: SortedLinks :(4) Eye_Rotate_jnt
+[2020.06.29-23.00.22:302][ 30]LogFbx: SortedLinks :(5) Arm_R_jnt
+[2020.06.29-23.00.22:303][ 30]LogFbx: SortedLinks :(6) Arm_L_jnt
+[2020.06.29-23.00.22:303][ 30]LogFbx: Parsing AnimStack Take 001
+[2020.06.29-23.00.22:305][ 30]LogLinker: Failed to load '/Game/Character/Glitch_Walk': Can't find file.
+[2020.06.29-23.00.22:305][ 30]LogLinker: Failed to load '/Game/Character/Glitch_Walk': Can't find file.
+[2020.06.29-23.00.22:321][ 30]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Glitch_Walk.Glitch_Walk
+[2020.06.29-23.00.22:321][ 30]LogAnimationCompression: Recompressing (AnimSequence /Game/Character/Glitch_Walk.Glitch_Walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.06.29-23.00.24:145][202]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Character/Glitch_Walk.Glitch_Walk
+[2020.06.29-23.00.24:154][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.29-23.00.24:174][202]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.29-23.00.24:424][202]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.06.29-23.00.29:971][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.29-23.00.30:036][625]LogSlate: Window 'Glitch_Walk' being destroyed
+[2020.06.29-23.00.30:043][625]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-23.00.30:061][625]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-23.00.30:149][625]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.06.29-23.00.31:700][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.06.29-23.00.32:766][784]LogSlate: Window 'Save Content' being destroyed
+[2020.06.29-23.00.32:804][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Glitch_Walk" FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error 4.23/Content/Character/Glitch_Walk.uasset" SILENT=true
+[2020.06.29-23.00.32:820][784]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error 4.23/Saved/Glitch_Walk9920C260420AA697F0B093909EFFA396.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error 4.23/Content/Character/Glitch_Walk.uasset'
+[2020.06.29-23.00.33:999][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.06.29-23.00.34:164][916]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error 4.23/Saved/RichardTextLevelD99BBD3A497951B77A236AAF21ED2A25.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error 4.23/Content/Levels/RichardTextLevel.umap'
