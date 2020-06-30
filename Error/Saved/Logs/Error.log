@@ -2489,3 +2489,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.30-04.01.04:537][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
 [2020.06.30-04.01.04:667][769]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/ArtistLevelC131EB9249784F6E4A8E42AF4D668CCA.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/ArtistLevel.umap'
 [2020.06.30-04.01.08:980][ 44]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={99A13247-4B13-9376-ABE0-B1916182A537}
+[2020.06.30-04.03.27:377][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.04.01:991][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.06.30-04.04.02:073][634]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.04.31:681][911]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/EnvironmentLevel.EnvironmentLevel
+[2020.06.30-04.04.31:704][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.06.30-04.04.33:934][911]LogSlate: Window 'Save Content' being destroyed
+[2020.06.30-04.04.33:978][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.06.30-04.04.34:090][911]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/EnvironmentLevelABF55CCA406339530A7F44A878674348.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/EnvironmentLevel.umap'
+[2020.06.30-04.04.34:096][911]LogFileHelpers: Saving map 'EnvironmentLevel' took 0.149
+[2020.06.30-04.04.34:098][911]Cmd: MAP LOAD FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/EnvironmentLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.30-04.04.34:098][911]LightingResults: New page: Lighting Build
+[2020.06.30-04.04.34:099][911]LoadErrors: New page: Loading map: EnvironmentLevel.umap
+[2020.06.30-04.04.34:099][911]LogWorld: UWorld::CleanupWorld for ArtistLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.04.34:100][911]MapCheck: New page: Map Check
+[2020.06.30-04.04.34:100][911]LightingResults: New page: Lighting Build
+[2020.06.30-04.04.34:123][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.06.30-04.04.34:201][911]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.30-04.04.34:226][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.06.30-04.04.34:260][911]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.30-04.04.34:260][911]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2020.06.30-04.04.34:261][911]LogFileHelpers: Loading map 'EnvironmentLevel' took 0.164
+[2020.06.30-04.04.35:993][109]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/EnvironmentLevel.EnvironmentLevel
+[2020.06.30-04.04.36:018][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.06.30-04.04.36:019][109]Cmd: MAP LOAD FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/EnvironmentLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.30-04.04.36:019][109]LightingResults: New page: Lighting Build
+[2020.06.30-04.04.36:019][109]LoadErrors: New page: Loading map: EnvironmentLevel.umap
+[2020.06.30-04.04.36:020][109]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.04.36:020][109]MapCheck: New page: Map Check
+[2020.06.30-04.04.36:020][109]LightingResults: New page: Lighting Build
+[2020.06.30-04.04.36:042][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.06.30-04.04.36:054][109]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.04.36:182][109]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.30-04.04.36:206][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.06.30-04.04.36:236][109]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.30-04.04.36:236][109]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2020.06.30-04.04.36:238][109]LogFileHelpers: Loading map 'EnvironmentLevel' took 0.219
