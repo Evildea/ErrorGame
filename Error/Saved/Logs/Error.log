@@ -2525,3 +2525,449 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.30-04.04.36:236][109]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.06.30-04.04.36:236][109]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
 [2020.06.30-04.04.36:238][109]LogFileHelpers: Loading map 'EnvironmentLevel' took 0.219
+[2020.06.30-04.05.14:986][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.05.49:361][373]LogEditorViewport: Clicking on Actor (LMB): Player_C (Player)
+[2020.06.30-04.05.51:088][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.06.12:261][ 93]LogEditorViewport: Clicking on Actor (LMB): Player_C (Player)
+[2020.06.30-04.06.17:509][712]Cmd: TRANSACTION UNDO
+[2020.06.30-04.06.17:509][712]LogEditorTransaction: Undo Move Actors
+[2020.06.30-04.06.17:876][743]Cmd: TRANSACTION UNDO
+[2020.06.30-04.06.17:876][743]LogEditorTransaction: Undo Set Scale
+[2020.06.30-04.06.19:500][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.06.23:346][385]LogEditorViewport: Clicking on Actor (LMB): Player_C (Player)
+[2020.06.30-04.06.23:947][455]LogEditorViewport: Clicking on Actor (LMB): Player_C (Player)
+[2020.06.30-04.06.24:023][462]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2020.06.30-04.06.50:672][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.07.27:757][ 96]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s171971\Downloads\SM_Longpipe.fbx)
+[2020.06.30-04.07.27:768][ 96]LogFbx: Loading FBX Scene from C:\Users\s171971\Downloads\SM_Longpipe.fbx
+[2020.06.30-04.07.27:774][ 96]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.30-04.07.39:233][ 96]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.30-04.07.39:293][ 96]LogFbx: Display: Triangulating static mesh SM_Longpipe
+[2020.06.30-04.07.39:334][ 96]LogStaticMesh: Building static mesh SM_Longpipe...
+[2020.06.30-04.07.39:356][ 96]LogStaticMesh: Built static mesh [0.02s] /Game/Error_GameMesh/SM_Longpipe.SM_Longpipe
+[2020.06.30-04.07.39:370][ 96]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.30-04.07.42:757][433]LogActorFactory: Actor Factory created SM_Longpipe
+[2020.06.30-04.07.47:144][938]LogActorFactory: Actor Factory created SM_Longpipe
+[2020.06.30-04.07.47:913][ 27]LogActorFactory: Actor Factory created SM_Longpipe
+[2020.06.30-04.07.59:767][429]LogEditorViewport: Clicking on Actor (LMB): Player_C (Player)
+[2020.06.30-04.08.03:378][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe)
+[2020.06.30-04.08.48:733][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.08.48:807][  6]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-04.08.48:823][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.08.48:823][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-04.08.48:824][  6]PIE: New page: PIE session: EnvironmentLevel (1 Jul 2020 12:08:48 am)
+[2020.06.30-04.08.48:825][  6]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.30-04.08.48:826][  6]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.08.48:835][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008914s)
+[2020.06.30-04.08.48:837][  6]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.08.48:837][  6]LogPlayLevel: PIE: World Init took: (0.002348s)
+[2020.06.30-04.08.48:837][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnvironmentLevel.EnvironmentLevel to /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel (0.011606s)
+[2020.06.30-04.08.48:866][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.06.30-04.08.48:876][  6]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.30-04.08.48:904][  6]LogInit: FAudioDevice initialized.
+[2020.06.30-04.08.48:916][  6]LogLinker: Warning: Failed to load '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode': Can't find file.
+[2020.06.30-04.08.48:916][  6]LogLinker: Warning: Failed to load '/Game/SideScrollerBP/Blueprints/SideScrollerGameMode': Can't find file.
+[2020.06.30-04.08.48:916][  6]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/SideScrollerBP/Blueprints/SideScrollerGameMode.SideScrollerGameMode_C'
+[2020.06.30-04.08.48:916][  6]LogLoad: Game class is 'GameModeBase'
+[2020.06.30-04.08.48:918][  6]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel up for play (max tick rate 0) at 2020.06.30-14.08.48
+[2020.06.30-04.08.48:919][  6]LogWorld: Bringing up level for play took: 0.001127
+[2020.06.30-04.08.48:919][  6]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.06.30-04.08.48:925][  6]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.06.30-04.08.48:927][  6]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnvironmentLevel -0.016
+[2020.06.30-04.08.48:927][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.06:198][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.06:198][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.09.06:198][ 69]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.09.06:198][ 69]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.09.06:208][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-04.09.06:208][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.06:233][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.09.06:236][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.06.30-04.09.06:305][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.06.30-04.09.08:690][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe3)
+[2020.06.30-04.09.12:685][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.09.12:770][809]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-04.09.12:787][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.12:787][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-04.09.12:787][809]PIE: New page: PIE session: EnvironmentLevel (1 Jul 2020 12:09:12 am)
+[2020.06.30-04.09.12:787][809]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.09.12:796][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009006s)
+[2020.06.30-04.09.12:797][809]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.09.12:798][809]LogPlayLevel: PIE: World Init took: (0.001442s)
+[2020.06.30-04.09.12:798][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnvironmentLevel.EnvironmentLevel to /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel (0.010637s)
+[2020.06.30-04.09.12:824][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.06.30-04.09.12:834][809]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.30-04.09.12:857][809]LogInit: FAudioDevice initialized.
+[2020.06.30-04.09.12:868][809]LogLoad: Game class is 'GameModeBase'
+[2020.06.30-04.09.12:870][809]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel up for play (max tick rate 0) at 2020.06.30-14.09.12
+[2020.06.30-04.09.12:870][809]LogWorld: Bringing up level for play took: 0.000841
+[2020.06.30-04.09.12:870][809]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.06.30-04.09.12:872][809]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnvironmentLevel -0.07
+[2020.06.30-04.09.12:873][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.29:595][808]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.29:595][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.09.29:595][808]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.09.29:595][808]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.09.29:601][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-04.09.29:601][808]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.29:629][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.09.29:631][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.06.30-04.09.29:696][814]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.06.30-04.09.31:068][977]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-04.09.31:084][977]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.31:084][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-04.09.31:084][977]PIE: New page: PIE session: EnvironmentLevel (1 Jul 2020 12:09:31 am)
+[2020.06.30-04.09.31:084][977]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.09.31:092][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009289s)
+[2020.06.30-04.09.31:095][977]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.09.31:095][977]LogPlayLevel: PIE: World Init took: (0.002816s)
+[2020.06.30-04.09.31:095][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnvironmentLevel.EnvironmentLevel to /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel (0.012340s)
+[2020.06.30-04.09.31:122][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.06.30-04.09.31:132][977]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.30-04.09.31:157][977]LogInit: FAudioDevice initialized.
+[2020.06.30-04.09.31:167][977]LogLoad: Game class is 'GameModeBase'
+[2020.06.30-04.09.31:168][977]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel up for play (max tick rate 0) at 2020.06.30-14.09.31
+[2020.06.30-04.09.31:168][977]LogWorld: Bringing up level for play took: 0.000810
+[2020.06.30-04.09.31:168][977]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.06.30-04.09.31:170][977]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnvironmentLevel 0.228
+[2020.06.30-04.09.31:170][977]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.32:142][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.32:142][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.09.32:142][ 89]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.09.32:143][ 89]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.09.32:149][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-04.09.32:150][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.09.32:174][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.09.32:177][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.06.30-04.09.32:240][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.06.30-04.09.35:104][436]LogEditorViewport: Clicking on Actor (LMB): Player_C (Player)
+[2020.06.30-04.09.35:199][444]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2020.06.30-04.10.15:403][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.11.11:993][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe)
+[2020.06.30-04.11.20:153][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe2)
+[2020.06.30-04.11.35:255][856]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-04.11.36:385][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe3)
+[2020.06.30-04.12.00:508][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.12.00:566][703]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-04.12.00:582][703]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.12.00:582][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-04.12.00:583][703]PIE: New page: PIE session: EnvironmentLevel (1 Jul 2020 12:12:00 am)
+[2020.06.30-04.12.00:583][703]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.12.00:593][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009779s)
+[2020.06.30-04.12.00:594][703]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.12.00:594][703]LogPlayLevel: PIE: World Init took: (0.001315s)
+[2020.06.30-04.12.00:594][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnvironmentLevel.EnvironmentLevel to /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel (0.011300s)
+[2020.06.30-04.12.00:620][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.06.30-04.12.00:630][703]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.30-04.12.00:654][703]LogInit: FAudioDevice initialized.
+[2020.06.30-04.12.00:664][703]LogLoad: Game class is 'GameModeBase'
+[2020.06.30-04.12.00:665][703]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel up for play (max tick rate 0) at 2020.06.30-14.12.00
+[2020.06.30-04.12.00:665][703]LogWorld: Bringing up level for play took: 0.000811
+[2020.06.30-04.12.00:665][703]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.06.30-04.12.00:668][703]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnvironmentLevel -0.274
+[2020.06.30-04.12.00:668][703]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.12.12:984][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.12.12:984][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.12.12:984][176]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.12.12:984][176]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.12.12:993][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-04.12.12:993][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.12.13:018][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.12.13:020][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.06.30-04.12.13:085][181]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.06.30-04.12.19:302][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.12.20:811][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-04.12.24:759][520]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.06.30-04.12.25:749][630]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.06.30-04.12.26:472][708]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-04.12.27:131][779]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-04.12.28:027][880]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-04.12.29:272][ 18]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-04.12.30:255][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe2)
+[2020.06.30-04.12.33:438][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe3)
+[2020.06.30-04.12.41:243][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe4)
+[2020.06.30-04.12.53:508][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.12.53:558][719]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-04.12.53:574][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.12.53:574][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-04.12.53:574][719]PIE: New page: PIE session: EnvironmentLevel (1 Jul 2020 12:12:53 am)
+[2020.06.30-04.12.53:574][719]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.12.53:583][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009147s)
+[2020.06.30-04.12.53:584][719]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.12.53:585][719]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2020.06.30-04.12.53:585][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnvironmentLevel.EnvironmentLevel to /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel (0.010871s)
+[2020.06.30-04.12.53:615][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.06.30-04.12.53:625][719]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.30-04.12.53:645][719]LogInit: FAudioDevice initialized.
+[2020.06.30-04.12.53:655][719]LogLoad: Game class is 'GameModeBase'
+[2020.06.30-04.12.53:656][719]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel up for play (max tick rate 0) at 2020.06.30-14.12.53
+[2020.06.30-04.12.53:656][719]LogWorld: Bringing up level for play took: 0.000974
+[2020.06.30-04.12.53:657][719]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.06.30-04.12.53:659][719]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnvironmentLevel 0.719
+[2020.06.30-04.12.53:659][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.13.15:044][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.13.15:045][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.13.15:045][277]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.13.15:045][277]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.13.15:051][277]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-04.13.15:051][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.13.15:075][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.13.15:078][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.06.30-04.13.15:143][283]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.06.30-04.13.21:394][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe3)
+[2020.06.30-04.13.31:700][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe4)
+[2020.06.30-04.13.42:141][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe5)
+[2020.06.30-04.13.57:762][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.13.57:845][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-04.13.57:861][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.13.57:861][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-04.13.57:861][ 45]PIE: New page: PIE session: EnvironmentLevel (1 Jul 2020 12:13:57 am)
+[2020.06.30-04.13.57:862][ 45]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.13.57:871][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008944s)
+[2020.06.30-04.13.57:872][ 45]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.13.57:872][ 45]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2020.06.30-04.13.57:872][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnvironmentLevel.EnvironmentLevel to /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel (0.010604s)
+[2020.06.30-04.13.57:898][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.06.30-04.13.57:909][ 45]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.30-04.13.57:931][ 45]LogInit: FAudioDevice initialized.
+[2020.06.30-04.13.57:943][ 45]LogLoad: Game class is 'GameModeBase'
+[2020.06.30-04.13.57:945][ 45]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel up for play (max tick rate 0) at 2020.06.30-14.13.57
+[2020.06.30-04.13.57:945][ 45]LogWorld: Bringing up level for play took: 0.000979
+[2020.06.30-04.13.57:945][ 45]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.06.30-04.13.57:947][ 45]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnvironmentLevel 1.007
+[2020.06.30-04.13.57:948][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.14.29:372][803]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.14.29:373][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.14.29:373][803]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.14.29:373][803]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.14.29:382][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-04.14.29:382][803]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.14.29:407][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.14.29:409][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.06.30-04.14.29:473][809]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.06.30-04.14.33:766][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe5)
+[2020.06.30-04.14.35:251][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe6)
+[2020.06.30-04.14.36:352][592]Cmd: DELETE
+[2020.06.30-04.14.36:352][592]Cmd: ACTOR DELETE
+[2020.06.30-04.14.36:353][592]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-04.14.36:373][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.30-04.14.36:373][592]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.06.30-04.14.37:359][710]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-04.14.38:196][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Longpipe5)
+[2020.06.30-04.14.49:401][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.14.51:791][311]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-04.14.51:802][311]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-04.14.57:749][436]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s171971\Downloads\EnvironmentalModel\Exports\Lowall\SM_Lowwall_Low.fbx)
+[2020.06.30-04.14.57:759][436]LogFbx: Loading FBX Scene from C:\Users\s171971\Downloads\EnvironmentalModel\Exports\Lowall\SM_Lowwall_Low.fbx
+[2020.06.30-04.14.57:765][436]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.30-04.14.59:687][436]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.30-04.14.59:720][436]LogStaticMesh: Building static mesh SM_Lowwall_Low...
+[2020.06.30-04.14.59:721][436]LogStaticMesh: Built static mesh [0.00s] /Game/Error_GameMesh/SM_Lowwall_Low.SM_Lowwall_Low
+[2020.06.30-04.14.59:733][436]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.30-04.15.01:526][606]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-04.15.01:533][606]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-04.15.05:065][656]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s171971\Downloads\EnvironmentalModel\Exports\Midwall\SM_Midwall_Low.fbx)
+[2020.06.30-04.15.05:074][656]LogFbx: Loading FBX Scene from C:\Users\s171971\Downloads\EnvironmentalModel\Exports\Midwall\SM_Midwall_Low.fbx
+[2020.06.30-04.15.05:080][656]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.30-04.15.06:692][656]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.30-04.15.06:725][656]LogStaticMesh: Building static mesh SM_Midwall_Low...
+[2020.06.30-04.15.06:728][656]LogStaticMesh: Built static mesh [0.00s] /Game/Error_GameMesh/SM_Midwall_Low.SM_Midwall_Low
+[2020.06.30-04.15.06:739][656]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.30-04.15.08:403][806]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-04.15.08:410][806]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-04.15.13:438][898]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\s171971\Downloads\EnvironmentalModel\Exports\Pipe_grp\SM_Pipegrp.fbx)
+[2020.06.30-04.15.13:448][898]LogFbx: Loading FBX Scene from C:\Users\s171971\Downloads\EnvironmentalModel\Exports\Pipe_grp\SM_Pipegrp.fbx
+[2020.06.30-04.15.13:454][898]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.30-04.15.14:706][898]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.06.30-04.15.14:738][898]LogStaticMesh: Building static mesh SM_Pipegrp...
+[2020.06.30-04.15.14:743][898]LogStaticMesh: Built static mesh [0.01s] /Game/Error_GameMesh/SM_Pipegrp.SM_Pipegrp
+[2020.06.30-04.15.14:746][898]LogStaticMesh: Warning: SM_Pipegrp has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.06.30-04.15.14:746][898]LogStaticMesh: Warning: SM_Pipegrp has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.06.30-04.15.14:755][898]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.30-04.15.14:755][898]FBXImport: Warning: SM_Pipegrp has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.06.30-04.15.14:755][898]FBXImport: Warning: SM_Pipegrp has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.06.30-04.15.16:707][ 82]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-04.15.16:715][ 82]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-04.15.22:436][606]LogActorFactory: Actor Factory created SM_Pipegrp
+[2020.06.30-04.15.23:945][779]LogActorFactory: Actor Factory created SM_Pipegrp
+[2020.06.30-04.15.51:006][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.16.35:868][128]Cmd: TRANSACTION UNDO
+[2020.06.30-04.16.35:868][128]LogEditorTransaction: Undo Move Actors
+[2020.06.30-04.16.36:320][162]Cmd: TRANSACTION UNDO
+[2020.06.30-04.16.36:320][162]LogEditorTransaction: Undo Move Actors
+[2020.06.30-04.16.59:912][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.17.15:669][745]Cmd: TRANSACTION UNDO
+[2020.06.30-04.17.15:670][745]LogEditorTransaction: Undo Move Actors
+[2020.06.30-04.17.18:039][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.17.28:774][257]Cmd: MODE GRID=0
+[2020.06.30-04.17.29:525][339]Cmd: MODE GRID=1
+[2020.06.30-04.17.59:337][786]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-04.18.03:912][310]Cmd: TRANSACTION UNDO
+[2020.06.30-04.18.03:912][310]LogEditorTransaction: Undo Move Actors
+[2020.06.30-04.18.04:562][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pipegrp2)
+[2020.06.30-04.18.05:255][447]Cmd: DELETE
+[2020.06.30-04.18.05:255][447]Cmd: ACTOR DELETE
+[2020.06.30-04.18.05:257][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.30-04.18.05:278][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.06.30-04.18.05:279][447]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.06.30-04.18.06:274][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pipegrp)
+[2020.06.30-04.18.09:041][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.18.11:308][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pipegrp)
+[2020.06.30-04.18.20:962][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.19.09:292][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pipegrp2)
+[2020.06.30-04.19.30:525][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pipegrp8)
+[2020.06.30-04.19.38:991][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.19.39:126][293]LogActorFactory: Actor Factory created SM_Midwall_Low
+[2020.06.30-04.19.40:270][426]LogActorFactory: Actor Factory created SM_Midwall_Low
+[2020.06.30-04.20.12:952][200]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-04.20.34:451][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.20.56:787][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.21.16:959][634]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.06.30-04.21.19:399][919]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.06.30-04.21.39:558][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Midwall_Low)
+[2020.06.30-04.22.18:441][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.22.19:460][762]LogActorFactory: Actor Factory created SM_Lowwall_Low
+[2020.06.30-04.22.20:232][851]LogActorFactory: Actor Factory created SM_Lowwall_Low
+[2020.06.30-04.22.22:078][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Midwall_Low2)
+[2020.06.30-04.22.23:373][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lowwall_Low)
+[2020.06.30-04.22.24:615][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.22.37:128][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lowwall_Low)
+[2020.06.30-04.22.49:127][763]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.30-04.23.37:103][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pipegrp9)
+[2020.06.30-04.23.42:508][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Lowwall_Low3)
+[2020.06.30-04.23.54:659][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pipegrp9)
+[2020.06.30-04.24.14:740][606]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-04.24.28:277][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.25.30:331][ 79]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-04.25.35:380][655]Cmd: TRANSACTION UNDO
+[2020.06.30-04.25.35:380][655]LogEditorTransaction: Undo Clicking on Actors
+[2020.06.30-04.25.35:918][696]Cmd: TRANSACTION UNDO
+[2020.06.30-04.25.35:918][696]LogEditorTransaction: Undo Move Actors
+[2020.06.30-04.25.37:420][861]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.30-04.25.43:825][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.25.43:908][609]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-04.25.43:924][609]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.25.43:924][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-04.25.43:924][609]PIE: New page: PIE session: EnvironmentLevel (1 Jul 2020 12:25:43 am)
+[2020.06.30-04.25.43:924][609]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.25.43:936][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012369s)
+[2020.06.30-04.25.43:938][609]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.25.43:938][609]LogPlayLevel: PIE: World Init took: (0.001512s)
+[2020.06.30-04.25.43:938][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnvironmentLevel.EnvironmentLevel to /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel (0.014101s)
+[2020.06.30-04.25.43:965][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.06.30-04.25.43:980][609]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.30-04.25.44:003][609]LogInit: FAudioDevice initialized.
+[2020.06.30-04.25.44:010][609]LogLoad: Game class is 'GameModeBase'
+[2020.06.30-04.25.44:012][609]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel up for play (max tick rate 0) at 2020.06.30-14.25.44
+[2020.06.30-04.25.44:013][609]LogWorld: Bringing up level for play took: 0.002130
+[2020.06.30-04.25.44:013][609]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.06.30-04.25.44:016][609]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnvironmentLevel 1.081
+[2020.06.30-04.25.44:016][609]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.26.15:276][352]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.26.15:276][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.26.15:276][352]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.26.15:276][352]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.26.15:285][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-04.26.15:285][352]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.26.15:312][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.26.15:315][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.06.30-04.26.15:381][356]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.06.30-04.26.37:425][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-04.26.37:483][991]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-04.26.37:499][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.26.37:499][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-04.26.37:499][991]PIE: New page: PIE session: EnvironmentLevel (1 Jul 2020 12:26:37 am)
+[2020.06.30-04.26.37:499][991]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.26.37:511][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011321s)
+[2020.06.30-04.26.37:512][991]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.26.37:512][991]LogPlayLevel: PIE: World Init took: (0.001544s)
+[2020.06.30-04.26.37:512][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnvironmentLevel.EnvironmentLevel to /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel (0.013107s)
+[2020.06.30-04.26.37:541][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.06.30-04.26.37:552][991]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.30-04.26.37:572][991]LogInit: FAudioDevice initialized.
+[2020.06.30-04.26.37:579][991]LogLoad: Game class is 'GameModeBase'
+[2020.06.30-04.26.37:583][991]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel up for play (max tick rate 0) at 2020.06.30-14.26.37
+[2020.06.30-04.26.37:583][991]LogWorld: Bringing up level for play took: 0.003339
+[2020.06.30-04.26.37:583][991]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.06.30-04.26.37:587][991]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnvironmentLevel 0.654
+[2020.06.30-04.26.37:587][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.26.42:123][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.26.42:124][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.26.42:124][528]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.26.42:124][528]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.26.42:135][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-04.26.42:135][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.26.42:162][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.26.42:165][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.06.30-04.26.42:228][533]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.06.30-04.26.46:022][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.06.30-04.26.47:022][969]LogSlate: Window 'Save Content' being destroyed
+[2020.06.30-04.26.47:060][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Error_GameMesh/SM_Longpipe" FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Longpipe.uasset" SILENT=true
+[2020.06.30-04.26.47:083][969]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/SM_Longpipe68BCF5FD48BFDEA2C7C4D8ADCF326653.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Longpipe.uasset'
+[2020.06.30-04.26.47:104][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Error_GameMesh/SM_Lowwall_Low" FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Lowwall_Low.uasset" SILENT=true
+[2020.06.30-04.26.47:121][969]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/SM_Lowwall_Low90859FE7461E0147D04FE2B7B915D416.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Lowwall_Low.uasset'
+[2020.06.30-04.26.47:136][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Error_GameMesh/SM_Midwall_Low" FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Midwall_Low.uasset" SILENT=true
+[2020.06.30-04.26.47:154][969]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/SM_Midwall_Low09ECCF6449DB23A9BE67D99FB2322D76.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Midwall_Low.uasset'
+[2020.06.30-04.26.47:170][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Error_GameMesh/SM_Pipegrp" FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Pipegrp.uasset" SILENT=true
+[2020.06.30-04.26.47:187][969]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/SM_PipegrpB9ABDF9D411115A84343909E59EB0A20.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Pipegrp.uasset'
+[2020.06.30-04.26.47:217][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.06.30-04.26.47:358][969]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/EnvironmentLevel5A94506D407A0594A8973CA90950B140.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/EnvironmentLevel.umap'
+[2020.06.30-04.26.47:396][969]LogFileHelpers: Saving map 'EnvironmentLevel' took 0.201
+[2020.06.30-04.26.48:258][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.06.30-04.26.48:391][ 40]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/EnvironmentLevelC8E224A748DAC4FEC8FDE192E83DD46D.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/EnvironmentLevel.umap'
+[2020.06.30-04.27.37:355][347]LogTemp: Repeating last play command: Selected Viewport
+[2020.06.30-04.27.37:370][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.27.37:370][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.30-04.27.37:370][347]PIE: New page: PIE session: EnvironmentLevel (1 Jul 2020 12:27:37 am)
+[2020.06.30-04.27.37:371][347]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.27.37:381][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010281s)
+[2020.06.30-04.27.37:382][347]LogAIModule: Creating AISystem for world EnvironmentLevel
+[2020.06.30-04.27.37:382][347]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2020.06.30-04.27.37:382][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/EnvironmentLevel.EnvironmentLevel to /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel (0.011866s)
+[2020.06.30-04.27.37:412][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.06.30-04.27.37:425][347]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.06.30-04.27.37:446][347]LogInit: FAudioDevice initialized.
+[2020.06.30-04.27.37:458][347]LogLoad: Game class is 'GameModeBase'
+[2020.06.30-04.27.37:461][347]LogWorld: Bringing World /Game/Levels/UEDPIE_0_EnvironmentLevel.EnvironmentLevel up for play (max tick rate 0) at 2020.06.30-14.27.37
+[2020.06.30-04.27.37:461][347]LogWorld: Bringing up level for play took: 0.002954
+[2020.06.30-04.27.37:461][347]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.06.30-04.27.37:464][347]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_EnvironmentLevel 0.531
+[2020.06.30-04.27.37:465][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.27.39:673][587]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.27.39:673][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.27.39:673][587]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_EnvironmentLevel
+[2020.06.30-04.27.39:673][587]LogWorld: UWorld::CleanupWorld for EnvironmentLevel, bSessionEnded=true, bCleanupResources=true
+[2020.06.30-04.27.39:679][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.30-04.27.39:679][587]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel' with GeneratedClass '/Game/Levels/EnvironmentLevel.EnvironmentLevel_C' with ClassGeneratedBy '/Game/Levels/EnvironmentLevel.EnvironmentLevel:PersistentLevel.EnvironmentLevel'
+[2020.06.30-04.27.39:704][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.30-04.27.39:706][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.06.30-04.27.39:776][594]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.06.30-04.27.45:453][ 52]LogEditorFactories: Performing atomic reimport of [C:/Users/s171971/Downloads/EnvironmentalModel/Exports/Pipe_grp/SM_Pipegrp.fbx]
+[2020.06.30-04.27.45:474][ 52]LogFbx: Loading FBX Scene from C:/Users/s171971/Downloads/EnvironmentalModel/Exports/Pipe_grp/SM_Pipegrp.fbx
+[2020.06.30-04.27.45:479][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.30-04.27.45:490][ 52]LogStaticMesh: Building static mesh SM_Pipegrp...
+[2020.06.30-04.27.45:496][ 52]LogStaticMesh: Built static mesh [0.01s] /Game/Error_GameMesh/SM_Pipegrp.SM_Pipegrp
+[2020.06.30-04.27.45:498][ 52]LogStaticMesh: Warning: SM_Pipegrp has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.06.30-04.27.45:498][ 52]LogStaticMesh: Warning: SM_Pipegrp has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.06.30-04.27.45:508][ 52]LogEditorFactories: -- imported successfully
+[2020.06.30-04.27.45:511][ 52]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.30-04.27.45:511][ 52]FBXImport: Warning: SM_Pipegrp has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.06.30-04.27.45:511][ 52]FBXImport: Warning: SM_Pipegrp has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.06.30-04.27.52:592][102]LogEditorFactories: Performing atomic reimport of [C:/Users/s171971/Downloads/EnvironmentalModel/Exports/Midwall/SM_Midwall_Low.fbx]
+[2020.06.30-04.27.52:614][102]LogFbx: Loading FBX Scene from C:/Users/s171971/Downloads/EnvironmentalModel/Exports/Midwall/SM_Midwall_Low.fbx
+[2020.06.30-04.27.52:619][102]LogFbx: FBX Scene Loaded Succesfully
+[2020.06.30-04.27.52:632][102]LogStaticMesh: Building static mesh SM_Midwall_Low...
+[2020.06.30-04.27.52:634][102]LogStaticMesh: Built static mesh [0.00s] /Game/Error_GameMesh/SM_Midwall_Low.SM_Midwall_Low
+[2020.06.30-04.27.52:645][102]LogEditorFactories: -- imported successfully
+[2020.06.30-04.27.52:648][102]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.06.30-04.28.00:487][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.06.30-04.28.01:600][703]LogSlate: Window 'Save Content' being destroyed
+[2020.06.30-04.28.01:639][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Error_GameMesh/SM_Midwall_Low" FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Midwall_Low.uasset" SILENT=true
+[2020.06.30-04.28.01:658][703]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/SM_Midwall_LowEE4C00C24C71F3BE9CC00D9603B6CD67.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Midwall_Low.uasset'
+[2020.06.30-04.28.01:673][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Error_GameMesh/SM_Pipegrp" FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Pipegrp.uasset" SILENT=true
+[2020.06.30-04.28.01:689][703]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/SM_PipegrpC13700EB43C376583CCD32B2B2E7E11E.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Error_GameMesh/SM_Pipegrp.uasset'
+[2020.06.30-04.28.01:717][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.06.30-04.28.01:856][703]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/EnvironmentLevelC2741EC24257CC3EEB04AD993945C2EF.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/EnvironmentLevel.umap'
+[2020.06.30-04.28.01:889][703]LogFileHelpers: Saving map 'EnvironmentLevel' took 0.194
+[2020.06.30-04.28.03:497][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.06.30-04.28.03:620][882]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/EnvironmentLevel164FFA7844A596A134EBAEAB772C0D6C.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/EnvironmentLevel.umap'
