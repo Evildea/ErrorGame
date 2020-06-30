@@ -2287,3 +2287,54 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.30-02.30.09:047][877]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2020.06.30-02.30.14:461][362]LogActorFactory: Actor Factory created SM_Lowwall
 [2020.06.30-02.30.15:100][431]LogActorFactory: Actor Factory created SM_Lowwall
+[2020.06.30-02.30.46:980][766]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.06.30-02.31.35:560][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.30-02.31.35:650][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.06.30-02.31.37:442][991]LogSlate: Window 'Save Content' being destroyed
+[2020.06.30-02.31.37:469][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ArtistLevel" FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/ArtistLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.30-02.31.37:493][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.06.30-02.31.37:669][991]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/ArtistLevelA8BD25924BF5064C9710799FF592359A.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/ArtistLevel.umap'
+[2020.06.30-02.31.37:702][991]LogFileHelpers: Saving map 'ArtistLevel' took 0.233
+[2020.06.30-02.31.39:048][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/ArtistLevel" FILE="../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/ArtistLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.30-02.31.39:079][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.06.30-02.31.39:239][144]LogSavePackage: Moving '../../../../../../Users/s171971/Documents/ErrorGame/Error/Saved/ArtistLevelBFD2956A4B1CB432DC4DE5BA96E020DB.tmp' to '../../../../../../Users/s171971/Documents/ErrorGame/Error/Content/Levels/ArtistLevel.umap'
+[2020.06.30-02.35.15:474][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.06.30-02.35.18:025][416]LogSlate: Window 'Asset Report' being destroyed
+[2020.06.30-02.35.30:260][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/LowWall/D_Midwall does not exist on disk.
+[2020.06.30-02.35.30:260][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/LowWall/ORM_Midwall does not exist on disk.
+[2020.06.30-02.35.30:260][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/MidWall/ORM_Midwall does not exist on disk.
+[2020.06.30-02.35.30:260][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/M_MidWall does not exist on disk.
+[2020.06.30-02.35.30:260][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/Pipegrp/ORM_Pipegrp does not exist on disk.
+[2020.06.30-02.35.30:261][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/Pipegrp/N_Pipegrp does not exist on disk.
+[2020.06.30-02.35.30:261][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/Pipegrp/D_Pipegrp does not exist on disk.
+[2020.06.30-02.35.30:261][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/M_LowWall does not exist on disk.
+[2020.06.30-02.35.30:261][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/MidWall/N_Midwall does not exist on disk.
+[2020.06.30-02.35.30:261][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/M_Pipegrp does not exist on disk.
+[2020.06.30-02.35.30:261][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/MidWall/E_Midwall does not exist on disk.
+[2020.06.30-02.35.30:261][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/SM_Pipegrp does not exist on disk.
+[2020.06.30-02.35.30:261][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/SM_Midwall does not exist on disk.
+[2020.06.30-02.35.30:262][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/SM_Lowwall does not exist on disk.
+[2020.06.30-02.35.30:262][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/LowWall/N_Midwall does not exist on disk.
+[2020.06.30-02.35.30:262][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/MidWall/D_Midwall does not exist on disk.
+[2020.06.30-02.35.30:262][416]LogAssetTools: Warning: /Game/Meshes/Error_GameMesh/Materials/LowWall/E_Midwall does not exist on disk.
+[2020.06.30-02.35.30:264][416]AssetTools: New page: Copy Errors
+[2020.06.30-02.35.30:264][416]AssetTools: Error: /Game/Meshes/Error_GameMesh/Materials/LowWall/D_Midwall does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/LowWall/ORM_Midwall does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/MidWall/ORM_Midwall does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/M_MidWall does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/Pipegrp/ORM_Pipegrp does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/Pipegrp/N_Pipegrp does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/Pipegrp/D_Pipegrp does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/M_LowWall does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/MidWall/N_Midwall does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/M_Pipegrp does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/MidWall/E_Midwall does not exist on disk.
+/Game/Meshes/Error_GameMesh/SM_Pipegrp does not exist on disk.
+/Game/Meshes/Error_GameMesh/SM_Midwall does not exist on disk.
+/Game/Meshes/Error_GameMesh/SM_Lowwall does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/LowWall/N_Midwall does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/MidWall/D_Midwall does not exist on disk.
+/Game/Meshes/Error_GameMesh/Materials/LowWall/E_Midwall does not exist on disk.
+
+[2020.06.30-02.35.40:714][517]LogSlate: Window 'Message Log' being destroyed
+[2020.06.30-02.35.40:721][517]LogSlate: Window 'Message Log' being destroyed
